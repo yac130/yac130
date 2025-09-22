@@ -26,5 +26,12 @@
        data-canonical-src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" 
        style="max-width: 100%;">
 </a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.figma.com/">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" 
+       alt="Figma badge" 
+       data-canonical-src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" 
+       style="max-width: 100%;">
+</a>
+
   </ul>
 </div>
